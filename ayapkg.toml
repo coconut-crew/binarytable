@@ -1,0 +1,2 @@
+name = "binarytable"
+entry_point = "src/init.luau"
